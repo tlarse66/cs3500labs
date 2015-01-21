@@ -21,6 +21,10 @@ namespace TestProject
         {
 
         }
+        static void party()
+        {
+
+        }
         static void mask()
         {
 
