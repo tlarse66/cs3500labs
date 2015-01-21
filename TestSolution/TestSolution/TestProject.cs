@@ -21,5 +21,9 @@ namespace TestProject
         {
 
         }
+        static void mask()
+        {
+
+        }
     }
 }
