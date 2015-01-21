@@ -17,5 +17,9 @@ namespace TestProject
             Console.WriteLine("P-A-R-T Why? Because I gotta!");
             
         }
+        static void foo()
+        {
+
+        }
     }
 }
