@@ -11,6 +11,8 @@ namespace TestProject
         static void Main(string[] args)
         {
             Console.WriteLine("SSSSSSmoking!");
+
+            Console.WriteLine("It's Party Time!");
             
         }
     }
